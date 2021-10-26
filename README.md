@@ -3,7 +3,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="./assets/linkedin.png" />](https://www.linkedin.com/in/jathurshan-t/)
+[<img align="left" alt="Email" width="25px" src="./assets/outlook.png" />](https://www.linkedin.com/in/jathurshan-t/)
+[<img align="left" alt="LinkedIn" width="25px" src="./assets/linkedin.png" />](mailto:jtheiv@outlook.com)
 
 <br/>
 
