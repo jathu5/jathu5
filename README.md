@@ -18,7 +18,7 @@
 <img align="left" alt="React" width="26px" src="./assets/react.png" />
 <img align="left" alt="Node.js" width="26px" src="./assets/node.png" />
 <img align="left" alt="Express" width="26px" src="./assets/express.png" />
-<img align="left" alt="MongoDB" width="26px" src="./assets/hmongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.png" />
 <img align="left" alt="Firebase" width="26px" src="./assets/firebase.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./assets/vscode.png" />
 <img align="left" alt="Git" width="26px" src="./assets/git.png" />
