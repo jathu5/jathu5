@@ -1,10 +1,11 @@
-# Hello there, I'm Jathu
-## I'm a Developer, Leader and Learner
+# Hey There, I'm Jathu
+## I'm a Developer, Leader, Learner
 
-### Connect with me:
+### Connect With Me:
 
 [<img align="left" alt="Email" width="25px" src="./assets/outlook.png" />](mailto:jtheiv@outlook.com)
 [<img align="left" alt="LinkedIn" width="25px" src="./assets/linkedin.png" />](https://www.linkedin.com/in/jathurshan-t)
+[<img align="left" alt="GitHub" width="25px" src="./assets/github.png" />](https://github.com/jath-git?tab=repositories)
 
 <br/>
 
