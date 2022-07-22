@@ -61,8 +61,6 @@ Design
 Development/Deployment Environment
 ```
 
-<br/>
-
 <!-- personal description -->
 ### Jathu, an Aspiring Developer
 ```sh
@@ -74,8 +72,6 @@ job_experience = ["toyota:software developer", "ss&c:full stack developer"]
 interests = ["fintech", "automotive", "data"]
 goals = ["learn", "contribute", "lead"]
 ```
-
-<br/>
 
 <!-- github stats badge -->
 <div align="center">
