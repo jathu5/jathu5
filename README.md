@@ -14,17 +14,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
-### Jathu, an Aspiring Developer
-```sh
-name = "jathu theivikaran"
-education = "university of waterloo"
-program = "third year:computer science"
-job_search = "winter 2023:internships"
-job_experience = ["toyota:software developer", "ss&c:full stack developer"]
-interests = ["fintech", "automotive", "data"]
-goals = ["learn", "contribute", "lead"]
-```
-
+<!-- list all technologies used for this github -->
 ### GitHub Technologies
 <img align="left" alt="JavaScript" width="27px" height="30px" src="./assets/javascript.png" />
 <img align="left" alt="Python" width="27px" height="30px" src="./assets/python.png" />
@@ -73,6 +63,21 @@ Development/Deployment Environment
 
 <br/>
 
+<!-- personal description -->
+### Jathu, an Aspiring Developer
+```sh
+name = "jathu theivikaran"
+education = "university of waterloo"
+program = "third year:computer science"
+job_search = "winter 2023:internships"
+job_experience = ["toyota:software developer", "ss&c:full stack developer"]
+interests = ["fintech", "automotive", "data"]
+goals = ["learn", "contribute", "lead"]
+```
+
+<br/>
+
+<!-- github stats badge -->
 <div align="center">
 
   ![](https://github-readme-stats.vercel.app/api?username=jath-git)
