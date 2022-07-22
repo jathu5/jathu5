@@ -14,6 +14,18 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
+<!-- personal description -->
+### Jathu, an Aspiring Developer
+```sh
+name = "jathu theivikaran"
+education = "university of waterloo"
+program = "third year:computer science"
+job_search = "winter 2023:internships"
+job_experience = ["toyota:software developer", "ss&c:full stack developer"]
+interests = ["fintech", "automotive", "data"]
+goals = ["learn", "contribute", "lead"]
+```
+
 <!-- list all technologies used for this github -->
 ### GitHub Technologies
 <img align="left" alt="JavaScript" width="27px" height="30px" src="./assets/javascript.png" />
@@ -59,18 +71,6 @@ Design
 
 ```sh
 Development/Deployment Environment
-```
-
-<!-- personal description -->
-### Jathu, an Aspiring Developer
-```sh
-name = "jathu theivikaran"
-education = "university of waterloo"
-program = "third year:computer science"
-job_search = "winter 2023:internships"
-job_experience = ["toyota:software developer", "ss&c:full stack developer"]
-interests = ["fintech", "automotive", "data"]
-goals = ["learn", "contribute", "lead"]
 ```
 
 <!-- github stats badge -->
