@@ -14,8 +14,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
-<br/>
-
 ### Jathu, an Aspiring Developer
 ```sh
 name = "jathu theivikaran"
@@ -27,7 +25,7 @@ interests = ["fintech", "automotive", "data"]
 goals = ["learn", "contribute", "lead"]
 ```
 
-## GitHub Technologies
+### GitHub Technologies
 <img align="left" alt="JavaScript" width="27px" height="30px" src="./assets/javascript.png" />
 <img align="left" alt="Python" width="27px" height="30px" src="./assets/python.png" />
 <img align="left" alt="C-sharp" width="27px" height="30px" src="./assets/c++.png" />
