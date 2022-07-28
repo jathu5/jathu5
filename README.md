@@ -62,7 +62,7 @@ Terminal Tools
 <img align="left" alt="Sass" width="27px" height="30px" src="./assets/sass.png" />
 
 ```sh
-Design
+Design Tools
 ```
 
 <img align="left" alt="Visual Studio Code" width="27px" height="30px" src="./assets/vscode.png" />
@@ -71,7 +71,7 @@ Design
 <img align="left" alt="Heroku" width="27px" height="30px" src="./assets/heroku.png" />
 
 ```sh
-Development/Deployment Environment
+Development/Deployment Environments
 ```
 
 <!-- github stats badge -->
