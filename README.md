@@ -23,6 +23,7 @@ program = "third year:computer science"
 job_search = "winter 2023:internships"
 job_experience = ["toyota:software developer", "ss&c:full stack developer"]
 interests = ["fintech", "automotive", "data"]
+hobbies = ["sitcoms:sci fi", "world history", "traveling"]
 goals = ["learn", "contribute", "lead"]
 ```
 
