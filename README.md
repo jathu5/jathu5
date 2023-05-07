@@ -19,8 +19,8 @@
 ```sh
 name = "jathu theivikaran"
 education = "university of waterloo"
-program = "third year:computer science"
-job_search = "winter 2023:internships"
+program = "fourth year:computer science"
+job_search = "fall 2023:internships"
 job_experience = ["amazon:software engineer", "rbc:software developer", "toyota:software developer", "ss&c:full stack developer"]
 interests = ["fintech", "automotive", "data"]
 hobbies = ["sitcoms:sci fi", "world history", "traveling"]
