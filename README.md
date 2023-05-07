@@ -21,8 +21,9 @@ name = "jathu theivikaran"
 education = "university of waterloo"
 program = "fourth year:computer science"
 job_search = "fall 2023:internships"
-job_experience = ["amazon:software engineer", "rbc:software developer", "toyota:software developer", "ss&c:full stack developer"]
-interests = ["fintech", "automotive", "data"]
+job_experience = ["amazon:software engineer", "rbc:software developer",
+                  "toyota:software developer", "ss&c:full stack developer"]
+interests = ["fintech", "ecommerce", "automotive", "data"]
 hobbies = ["sitcoms:sci fi", "world history", "traveling"]
 goals = ["learn", "contribute", "lead"]
 ```
