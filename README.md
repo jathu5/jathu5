@@ -17,7 +17,7 @@
 <!-- personal description -->
 ### Jathu, an Aspiring Developer
 ```sh
-name = "jathu theivikaran"
+name = "jathu"
 education = "university of waterloo"
 program = "fourth year:computer science"
 job_search = "fall 2023:internships"
