@@ -21,10 +21,14 @@ name = "jathu"
 education = "university of waterloo"
 program = "fourth year:computer science"
 job_search = "fall 2023:internships"
-job_experience = ["amazon:software engineer", "rbc:software developer",
-                  "toyota:software developer", "ss&c:full stack developer"]
-interests = ["fintech", "ecommerce", "automotive", "data"]
-hobbies = ["sitcoms:sci fi", "world history", "traveling"]
+job_experience = [
+  "faire:software engineer",
+  "amazon:software engineer",
+  "rbc:software developer",
+  "toyota:software developer",
+  "ss&c:full stack developer"
+]
+interests = ["fintech", "ecommerce", "automotive"]
 goals = ["learn", "contribute", "lead"]
 ```
 
