@@ -19,8 +19,8 @@
 ```sh
 name = "jathu"
 education = "university of waterloo"
-program = "fourth year:computer science"
-job_search = "fall 2023:internships"
+program = "senior year:computer science"
+job_search = "fall 2024:internships"
 job_experience = [
   "faire:software engineer",
   "amazon:software engineer",
@@ -34,11 +34,11 @@ goals = ["learn", "contribute", "lead"]
 
 <!-- list all technologies used for this github -->
 ### GitHub Technologies
-<img align="left" alt="JavaScript" width="27px" height="30px" src="./assets/javascript.png" />
 <img align="left" alt="Python" width="27px" height="30px" src="./assets/python.png" />
-<img align="left" alt="C-sharp" width="27px" height="30px" src="./assets/c++.png" />
+<img align="left" alt="JavaScript" width="27px" height="30px" src="./assets/javascript.png" />
+<img align="left" alt="C++" width="27px" height="30px" src="./assets/c++.png" />
 <img align="left" alt="C-sharp" width="27px" height="30px" src="./assets/c-sharp.png" />
-<img align="left" alt="C-sharp" width="27px" height="30px" src="./assets/racket.png" />
+<img align="left" alt="Racket" width="27px" height="30px" src="./assets/racket.png" />
 
 ```sh
 Languages
