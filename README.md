@@ -22,6 +22,7 @@ education = "university of waterloo"
 program = "senior year:computer science"
 job_search = "fall 2024:internships"
 job_experience = [
+  "statsig:software engineer",
   "faire:software engineer",
   "amazon:software engineer",
   "rbc:software developer",
