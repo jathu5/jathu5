@@ -78,11 +78,3 @@ Design Tools
 ```sh
 Development/Deployment Environments
 ```
-<!--
-<!-- github stats badge -->
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=jathu5)
-
-</div>
--->
