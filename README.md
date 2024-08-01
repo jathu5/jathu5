@@ -6,7 +6,7 @@
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/jathurshan-t
 [github-shield]: https://img.shields.io/badge/GitHub-8631A9?style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/jath-git?tab=repositories
+[github-url]: https://github.com/jathu5?tab=repositories
 
 <!-- contact info -->
 [![Gmail][gmail-shield]][gmail-url]
@@ -82,6 +82,6 @@ Development/Deployment Environments
 <!-- github stats badge -->
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=jath-git)
+  ![](https://github-readme-stats.vercel.app/api?username=jathu5)
 
 </div>
